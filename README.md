@@ -1,2 +1,3 @@
 # controlecontas
-Controle de Contas
+Controle de Contas a pagar
+Utiliza Java, GWT e SmartGWT
