@@ -1,0 +1,37 @@
+#topo {
+	top: 0px;
+	left: 0px;
+	background-color:darkgrey;
+	height: 10%;
+	width: 100%;
+	box-shadow: 0px 2px 4px #000000;
+	position: absolute;	
+}
+
+#topoe {
+	float: left;
+	height: 50%;
+	margin-left: 20px;
+	//background-color: yellow;
+}
+
+h1 {
+	color: gray;
+}
+
+#topod {
+	float: right;
+	height: 50%;
+	//background-color: red;
+}
+
+#conteudo {
+	margin-top: 15%;
+}
+
+.gwt-DecoratorPanel {
+	background-color: #F2F2F2;
+	border-radius: 4px 4px 4px 4px;    
+	box-shadow: 0 2px 10px #000000;
+}
+
